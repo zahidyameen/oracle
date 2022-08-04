@@ -1,0 +1,12 @@
+name: oracle
+version: 0.1.0
+description: >
+  Dart library for Oracle database access.
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+dependencies:
+  grinder: ^0.9.1
+dev_dependencies:
+  test: ^1.21.1
+
+
